@@ -97,9 +97,9 @@ python scripts/render_board.py --html DEMO/../board.html --out /tmp/test.png
 
 ![输入原图](DEMO/source.png)
 
-**成品分析板** `DEMO/视觉分析板.png`（路径 A 生成，3840×2160）：
+**成品分析板** `DEMO/analysis-board.png`（路径 A 生成，3840×2160）：
 
-![成品分析板](DEMO/视觉分析板.png)
+![成品分析板](DEMO/analysis-board.png)
 
 ## 注意事项
 
